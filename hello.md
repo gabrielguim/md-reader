@@ -24,4 +24,4 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum
 
 This is a react component
 
-<Bible>1 Jo</MyComponent>
+<Bible>1 Jo 4:1</Bible>
