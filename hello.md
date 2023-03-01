@@ -4,6 +4,7 @@ image: https://dg.imgix.net/man-enough-to-weep-myyom2u3-en/landscape/man-enough-
 slug: home hello
 author: gabrielguimaraes
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum nulla eu tincidunt maximus.
+date: 01/03/2023
 ---
 
 # Markdown reader test
