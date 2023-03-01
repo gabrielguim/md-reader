@@ -18,8 +18,4 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum
 - Create [links](/)
 - ...
 
-<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum nulla eu tincidunt maximus. Ut in massa eros. Fusce blandit arcu eget risus maximus, suscipit lacinia eros faucibus. ❤️</small>
-
-This is a react component
-
-<Bible>1 Jo 4:1</Bible>
+<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 1 Jo 4:1 Nam elementum nulla eu tincidunt maximus. Ut in massa eros. Fusce blandit arcu eget risus maximus, suscipit lacinia eros faucibus. ❤️</small>
