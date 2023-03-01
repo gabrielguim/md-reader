@@ -1,10 +1,8 @@
 ---
 title: Hello
-image: 
+image: https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/973.jpg
 slug: home hello
-author: 
-  - Gabriel Guimarães
-  - gabrielguimaraes
+author: gabrielguimaraes
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum nulla eu tincidunt maximus.
 ---
 
