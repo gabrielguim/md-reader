@@ -14,4 +14,4 @@
 
 This is a react component
 
-<MyComponent>rly?</MyComponent>
+<MyComponent onClick={() => window.alert('hello')}>rly?</MyComponent>
